@@ -1,0 +1,14 @@
+C:\Users\rsingh\Desktop\InterfaceConcept\InterfaceConcept\bin\Debug\netcoreapp3.1\InterfaceConcept.exe
+C:\Users\rsingh\Desktop\InterfaceConcept\InterfaceConcept\bin\Debug\netcoreapp3.1\InterfaceConcept.deps.json
+C:\Users\rsingh\Desktop\InterfaceConcept\InterfaceConcept\bin\Debug\netcoreapp3.1\InterfaceConcept.runtimeconfig.json
+C:\Users\rsingh\Desktop\InterfaceConcept\InterfaceConcept\bin\Debug\netcoreapp3.1\InterfaceConcept.runtimeconfig.dev.json
+C:\Users\rsingh\Desktop\InterfaceConcept\InterfaceConcept\bin\Debug\netcoreapp3.1\InterfaceConcept.dll
+C:\Users\rsingh\Desktop\InterfaceConcept\InterfaceConcept\bin\Debug\netcoreapp3.1\InterfaceConcept.pdb
+C:\Users\rsingh\Desktop\InterfaceConcept\InterfaceConcept\obj\Debug\netcoreapp3.1\InterfaceConcept.csproj.AssemblyReference.cache
+C:\Users\rsingh\Desktop\InterfaceConcept\InterfaceConcept\obj\Debug\netcoreapp3.1\InterfaceConcept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsingh\Desktop\InterfaceConcept\InterfaceConcept\obj\Debug\netcoreapp3.1\InterfaceConcept.AssemblyInfoInputs.cache
+C:\Users\rsingh\Desktop\InterfaceConcept\InterfaceConcept\obj\Debug\netcoreapp3.1\InterfaceConcept.AssemblyInfo.cs
+C:\Users\rsingh\Desktop\InterfaceConcept\InterfaceConcept\obj\Debug\netcoreapp3.1\InterfaceConcept.csproj.CoreCompileInputs.cache
+C:\Users\rsingh\Desktop\InterfaceConcept\InterfaceConcept\obj\Debug\netcoreapp3.1\InterfaceConcept.dll
+C:\Users\rsingh\Desktop\InterfaceConcept\InterfaceConcept\obj\Debug\netcoreapp3.1\InterfaceConcept.pdb
+C:\Users\rsingh\Desktop\InterfaceConcept\InterfaceConcept\obj\Debug\netcoreapp3.1\InterfaceConcept.genruntimeconfig.cache

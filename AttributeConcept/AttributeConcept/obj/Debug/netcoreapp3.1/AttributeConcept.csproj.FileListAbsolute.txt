@@ -1,0 +1,14 @@
+C:\Users\rsingh\Desktop\AttributeConcept\AttributeConcept\bin\Debug\netcoreapp3.1\AttributeConcept.exe
+C:\Users\rsingh\Desktop\AttributeConcept\AttributeConcept\bin\Debug\netcoreapp3.1\AttributeConcept.deps.json
+C:\Users\rsingh\Desktop\AttributeConcept\AttributeConcept\bin\Debug\netcoreapp3.1\AttributeConcept.runtimeconfig.json
+C:\Users\rsingh\Desktop\AttributeConcept\AttributeConcept\bin\Debug\netcoreapp3.1\AttributeConcept.runtimeconfig.dev.json
+C:\Users\rsingh\Desktop\AttributeConcept\AttributeConcept\bin\Debug\netcoreapp3.1\AttributeConcept.dll
+C:\Users\rsingh\Desktop\AttributeConcept\AttributeConcept\bin\Debug\netcoreapp3.1\AttributeConcept.pdb
+C:\Users\rsingh\Desktop\AttributeConcept\AttributeConcept\obj\Debug\netcoreapp3.1\AttributeConcept.csproj.AssemblyReference.cache
+C:\Users\rsingh\Desktop\AttributeConcept\AttributeConcept\obj\Debug\netcoreapp3.1\AttributeConcept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsingh\Desktop\AttributeConcept\AttributeConcept\obj\Debug\netcoreapp3.1\AttributeConcept.AssemblyInfoInputs.cache
+C:\Users\rsingh\Desktop\AttributeConcept\AttributeConcept\obj\Debug\netcoreapp3.1\AttributeConcept.AssemblyInfo.cs
+C:\Users\rsingh\Desktop\AttributeConcept\AttributeConcept\obj\Debug\netcoreapp3.1\AttributeConcept.csproj.CoreCompileInputs.cache
+C:\Users\rsingh\Desktop\AttributeConcept\AttributeConcept\obj\Debug\netcoreapp3.1\AttributeConcept.dll
+C:\Users\rsingh\Desktop\AttributeConcept\AttributeConcept\obj\Debug\netcoreapp3.1\AttributeConcept.pdb
+C:\Users\rsingh\Desktop\AttributeConcept\AttributeConcept\obj\Debug\netcoreapp3.1\AttributeConcept.genruntimeconfig.cache
